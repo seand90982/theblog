@@ -1,7 +1,7 @@
-+++
-date = '2023-02-16T11:59:59-04:00'
-title = "Advice Isn't Neutral"
-+++
+---
+date: 2023-02-16
+title: Advice Isn't Neutral
+---
 Years ago I came across an interview with Jaron Lanier (possibly on Edge.org), where he argued that we should stop fetishizing the 'neutral' point of view; that even its existence was a fantasy, so we should stop trying to elevate or attain it. Instead he thought that we should keep pursuing  and publishing all our own personal points of view, and call them as such.
 
 I tend to agree with this. At least as a reductio, getting to a neutral point of view requires stripping out all the personal, all the value judgements, and essentially abstracting or deconstructing everything. If you go too far with this, you're likely to be left with nothing of instructive or integrative value. The only way to still have something worth reading or discussing is to not quite go all the way, but of course this still leaves in some sort of perspective, which is necessarily non-neutral. So at least let's be transparent about it!

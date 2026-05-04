@@ -1,7 +1,7 @@
-+++
-date = '2023-02-13T11:59:59-04:00'
-title = 'The Pursuit of Failure'
-+++
+---
+date: 2023-02-13
+title: The Pursuit of Failure
+---
 Shreyas Doshi has had several very good posts on failure, among which is [this one](https://twitter.com/shreyas/status/1624965994182766598):
 
 > Failure is the absolute worst way to learn something and sadly so many people spend their entire lives under the illusion that failure is the best way to learn anything.

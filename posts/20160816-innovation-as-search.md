@@ -1,7 +1,7 @@
-+++
-date = '2016-08-16T11:59:59-04:00'
-title = 'Innovation as Search'
-+++
+---
+date: 2016-08-16
+title: Innovation as Search
+---
 How can a company set out to develop some new technology or capability (that is, to commit resources to it)? Or, what level of surety must they have that they can do it? The answer is that they believe the search space is sufficiently small. Domain experts exist, and can be asked how feasible this is, how close is it to what they or others have done.
 
 More generally, innovation is search. Edison's version, at least as popularly told, relied on some intuition plus a lot of experimentation - at the extreme this is the 'hard' search, or exhaustive search - try everything, every combination until you find what you're looking for.

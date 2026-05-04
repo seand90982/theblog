@@ -1,7 +1,7 @@
-+++
-date = '2020-01-13T11:59:59-04:00'
-title = 'Risk Estimation and the Therac-25 Accidents'
-+++
+---
+date: 2020-01-13
+title: Risk Estimation and the Therac-25 Accidents
+---
 There are some great quotes toward the end of [“An Investigation of the Therac-25 Accidents”](https://simson.net/ref/1993/therac-25.pdf) by Nancy G. Leveson and Clark S. Turner (1993), which is on radiation overdoses caused by bad engineering practices and erroneous risk analysis. More background is [here](https://en.wikipedia.org/wiki/Therac-25).
 
 "Risk assessment data can be like the captured spy; if you torture it long enough, it will tell you anything you want to know." - William Ruckelshaus, former head of EPA

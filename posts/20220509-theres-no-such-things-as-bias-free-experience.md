@@ -1,7 +1,7 @@
-+++
-date = '2022-05-09T11:59:59-04:00'
-title = "There's No Such Thing as Bias-Free Experience"
-+++
+---
+date: 2022-05-09
+title: There's No Such Thing as Bias-Free Experience
+---
 I just read this tweet: "so leftie friend married a foreigner & it has been rather fascinating watching them become increasingly libertarian due to their travails with customs & immigration!" - Bella Rudd @BellaRudd https://twitter.com/BellaRudd1/status/1522942242293379072
 
 An aphorism comes to mind: A strongly-held opinion rarely survives confrontation with the real world.

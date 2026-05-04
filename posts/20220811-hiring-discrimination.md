@@ -1,7 +1,7 @@
-+++
-date = '2022-08-22T11:59:59-04:00'
-title = 'Hiring Discrimination'
-+++
+---
+date: 2022-08-22
+title: Hiring Discrimination
+---
 I sometimes hear the argument that discrimination in hiring can’t exist because markets are too competitive. That seems rather spurious to me. It apparently attempts to invoke the efficient markets hypothesis, which would imply that the level of discrimination is optimal, not that it’s zero. In other words, it says that further reduction in discrimination would not pass a cost benefit analysis by these companies. It doesn’t say that discrimination is low in an absolute sense, let alone zero, nor that any part of the hiring process works well, let alone optimally. Dan Luu has an excellent post on that [here](https://danluu.com/tech-discrimination/).
 
 To the extent that EMH is valid here, it means that either the current amount of discrimination is too small to address, or the cost of addressing it is too high relative to the benefit (to the companies, not the job applicants). To believe the former with any level of certainty, we would have to have cite some quantitative data. If it’s the latter, then it’s really a technological problem.

@@ -1,8 +1,8 @@
-+++
-date = '2018-08-09T11:59:59-04:00'
+---
+date: 2018-08-09
 title-old = 'Three Pieces of Advice for the Fresh PhD in Industry'
-title = 'What I Tell New Hires'
-+++
+title: What I Tell New Hires
+---
 My teams have hired a lot from academia, most often fresh PhDs. Most are well aware that in moving to industry, they’re getting into something quite different from school, but they rarely understand the full context of that difference. Here are three pieces of context I have sometimes shared: 
 
 One: During the interview

@@ -1,7 +1,7 @@
-+++
-date = '2020-04-14T11:59:59-04:00'
-title = 'Experiment Design'
-+++
+---
+date: 2020-04-14
+title: Experiment Design
+---
 Building effective experiments is one of the most fundamental parts of engineering. Experiments are how engineers interrogate a design space, it's how we measure what we're doing and what we've done, and how we decide what to keep or change in the future.
 
 When building set of experiments (often called a DOE), it's best to frame it by asking questions. That is, what questions do you intend this DOE to answer?

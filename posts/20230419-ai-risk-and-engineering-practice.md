@@ -1,7 +1,7 @@
-+++
-date = '2023-04-19T11:59:59-04:00'
-title = 'AI Risk and Engineering Practice'
-+++
+---
+date: 2023-04-19
+title: AI Risk and Engineering Practice
+---
 I've been reading much about AGI risk, and arguments about the potential for existential risk from AGI. I find the conversation severely lacking. I have not seen any real engagement with, or explanation of, why AGI risk is of a uniquely different kind or extent than any number of extant technologies.
 
 I believe Tyler is spot on – there are no properly developed models of AI/AGI risk: https://marginalrevolution.com/marginalrevolution/2023/04/this-gpt-4-answer-speaks-for-itself.html

@@ -1,7 +1,7 @@
-+++
-date = '2016-07-22T11:59:59-04:00'
-title = 'The Spatial Diffusion Model of Organizational Competence'
-+++
+---
+date: 2016-07-22
+title: The Spatial Diffusion Model of Organizational Competence
+---
 Competence is hard to develop from scratch – much safer to gradually expand competency into adjacent areas, moving from one area to the next nearby area, etc., rather than to jump from where you are to a new and far-away domain.
 Kind of like the way Walmart expanded its network of stores, compared other how K-mart did: Walmart followed a spatial diffusion model, while Kmart seemed to open up new stores without any regard to where existing ones were.
 Expanding (or moving or adapting) gradually to reach new areas of competence is a lower-risk method of gaining new skills. Jumping to a new area is more risky. If you're going to jump then you need to make sure you're going to devote the time and resources to properly developing the new competence, and assimilating it to the rest of the organization's capabilities or core functions/objectives. You also need to have the judgement to make sure you're jumping to the right new area. By moving to an adjacent area, the step size is smaller, so the uncertainty is lower. There is also better ability to leverage existing knowledge/competence, there is less need for the rest of the organization to adapt, and there is much greater ability to exploit the value of the new area.

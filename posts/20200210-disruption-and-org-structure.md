@@ -1,7 +1,7 @@
-+++
-date = '2020-02-10T11:59:59-04:00'
-title = 'Disruption and Organizational Structure'
-+++
+---
+date: 2020-02-10
+title: Disruption and Organizational Structure
+---
 An organization's behavior is necessarily emergent to some degree, because the organization is made up of many small actors. The decisions those actors make are based on the facts and biases present in the location, and in the moment, they are made. The only way an organization's overall behavior can be coherent or constructive toward some ends, is to facilitate it by the organization's structure. That means things like: the availability of information to local actors, the incentives they face when making decisions, the resources at their disposal, and their latitude for action - _i.e._ the set of parameters that define each actor's sphere of authority/influence, both formal and informal.
 
 Superficially there might seem to be a tension here - the best organizations are those that facilitate high-quality local decision-making; but to make that local decision-making add up to desirable outcomes for the whole organization, the organizational structure needs to be _designed_ to facilitate it.

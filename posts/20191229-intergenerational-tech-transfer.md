@@ -1,7 +1,7 @@
-+++
-date = '2019-12-29T11:59:59-04:00'
-title = 'Intergenerational Tech Transfer'
-+++
+---
+date: 2019-12-29
+title: Intergenerational Tech Transfer
+---
 I read recently somewhere that the structure of neuronal connectivity (the connectome) can’t be too complex, because at every generation the whole thing has to be compressed through a genomic bottleneck – *i.e.* it all has to be able to fit into a relatively constrained description. Thus, there’s a pretty hard limit to what each generation can pass on to its offspring, or to the community at large.
 
 But humans, with written language, can sort of sidestep this. We can pass on far more knowledge because we can store it outside out own heads. And as a byproduct we can share it laterally, not just with our own offspring.

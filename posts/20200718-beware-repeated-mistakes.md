@@ -1,7 +1,7 @@
-+++
-date = '2020-07-18T11:59:59-04:00'
-title = 'Beware Repeated Misatkes'
-+++
+---
+date: 2020-07-18
+title: Beware Repeated Misatkes
+---
 Organizations often repeat their mistakes. Like Twain said, history doesn't repeat itself, but it does rhyme. You should not automatically assume that any given mistake is just a one-off error: it's almost always part of a pattern of similar mistakes – if not in substance, then at least in form.
 
 Several years ago I started in a new position, and I took the opportunity to interview everyone to understand their technical/strategic position, challenges, etc. Quite a few people talked about how this one supplier had started screwing stuff up, and how this had knock-on effects on their development program. How it had caused the program nearly a year of lost progress.

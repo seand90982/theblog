@@ -1,7 +1,7 @@
-+++
-date = '2023-02-16T11:59:59-04:00'
-title = 'LLMs Confabulate, Just Like Us'
-+++
+---
+date: 2023-02-16
+title: LLMs Confabulate, Just Like Us
+---
 Lately I've been thinking about how AIs and particularly LLMs like ChatGPT work and behave. I've heard others use terms like statistical, or matrix-based, or neural nets. Regardless of how technically correct any of those may be, they don't go very far at all in terms of description of behavior, at least for me.
 
 Somehow these models can produce rigorous and technically accurate responses, but also surprisingly creative output. And they can create completely made-up garbage (Tyler Cowen refers to this as 'hallucinating'), which looks like a mix of confusion, solipsism, mere fill-in-the-blank, occasional genius-level abstraction, and outright fabrication.

@@ -1,7 +1,7 @@
-+++
-date = '2018-12-11T11:59:59-04:00'
-title = "Don't Skip Steps"
-+++
+---
+date: 2018-12-11
+title: Don't Skip Steps
+---
 The core engineering design loop is some version of:
   1. Determine requirements
   2. Assign

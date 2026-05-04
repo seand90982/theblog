@@ -1,7 +1,7 @@
-+++
-date = '2020-01-29T11:59:59-04:00'
-title = 'Experimentation and Understanding'
-+++
+---
+date: 2020-01-29
+title: Experimentation and Understanding
+---
 [Tyler Cowen's blurb](https://marginalrevolution.com/marginalrevolution/2020/01/draining-the-swamp.html) on Jason Crawford's post [Draining the swamp](https://rootsofprogress.org/draining-the-swamp) points out that even before vaccination and antibiotics, tuberculosis, influenza/pneumonia, and gastroenteric diseases were on the decline. This was due to making efforts on sanitation, which was "based on data collection and analysis, long before a full scientific theory of infection had been worked out."
 
 I think this is a very important point. Many people, if only implicitly, take the view that most progress comes from breakthroughs. That is, that we may toil for a while, making tiny amounts of progress, which maybe we can't even hold on to because we just don’t know what we're doing and have no real understanding of the underlying problem, etc, etc, and then one day we have a breakthrough, a major advance in understanding and knowledge, and finally we're able to really put that problem behind us - from that point it's just a matter of implementation and convincing the skeptics, and of doing away with the old and backwards ways of thinking.

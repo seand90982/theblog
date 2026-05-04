@@ -1,7 +1,7 @@
-+++
-date = '2019-07-08T11:59:59-04:00'
-title = 'Make a List'
-+++
+---
+date: 2019-07-08
+title: Make a List
+---
 I recently attended a wedding where the bride mentioned in her vows some advice she'd received. Years earlier, having apparently kissed her share of frogs, she was advised by a friend told her to take some time to write a list of all the qualities she wanted in a husband. A few months later she met her groom, who had all the qualities on that list (there were over 100).
 
 It was my wife who gave her that advice. The key is that the best place to start, when trying to do something difficult, especially if it's new to you, is to become clear about what you're trying to do. Make a list.

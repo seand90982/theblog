@@ -1,7 +1,7 @@
-+++
-date = '2019-04-08T11:59:59-04:00'
-title = 'Talent and Opportunity Cost'
-+++
+---
+date: 2019-04-08
+title: Talent and Opportunity Cost
+---
 Alex Tabarrok has an interesting post, ["Using Nature to Understand Nurture"](https://marginalrevolution.com/marginalrevolution/2019/04/using-nature-to-understand-nurture.html)
 which describes a genome-wide association study (GWAS) that tracked math courses taken in high school and ultimate educational attainment.
 
