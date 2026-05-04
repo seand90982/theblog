@@ -42,7 +42,13 @@ async function loadPosts() {
   });
 
   const markdownFiles = entries
-    .filter((entry) => entry.isFile() && entry.name.toLowerCase().endsWith(".md"))
+    .filter(
+      (entry) =>
+        entry.isFile() &&
+        entry.name.toLowerCase().endsWith(".md") &&
+        !entry.name.startsWith("_") &&
+        entry.name.toLowerCase() !== "template.md",
+    )
     .map((entry) => entry.name)
     .sort();
 
@@ -108,6 +114,7 @@ function renderMarkdown(source) {
   const html = [];
   let paragraph = [];
   let listItems = [];
+  let blockquote = [];
   let codeFence = null;
 
   const flushParagraph = () => {
@@ -124,10 +131,20 @@ function renderMarkdown(source) {
     }
   };
 
+  const flushBlockquote = () => {
+    if (blockquote.length > 0) {
+      html.push(
+        `<blockquote>${blockquote.map((item) => `<p>${renderInline(item)}</p>`).join("")}</blockquote>`,
+      );
+      blockquote = [];
+    }
+  };
+
   for (const line of lines) {
     if (line.startsWith("```")) {
       flushParagraph();
       flushList();
+      flushBlockquote();
 
       if (codeFence) {
         html.push(
@@ -152,6 +169,7 @@ function renderMarkdown(source) {
     if (!line.trim()) {
       flushParagraph();
       flushList();
+      flushBlockquote();
       continue;
     }
 
@@ -159,6 +177,7 @@ function renderMarkdown(source) {
     if (headingMatch) {
       flushParagraph();
       flushList();
+      flushBlockquote();
       const level = headingMatch[1].length;
       html.push(`<h${level}>${renderInline(headingMatch[2].trim())}</h${level}>`);
       continue;
@@ -171,11 +190,21 @@ function renderMarkdown(source) {
       continue;
     }
 
+    const blockquoteMatch = line.match(/^>\s?(.*)$/);
+    if (blockquoteMatch) {
+      flushParagraph();
+      flushList();
+      blockquote.push(blockquoteMatch[1].trim());
+      continue;
+    }
+
+    flushBlockquote();
     paragraph.push(line.trim());
   }
 
   flushParagraph();
   flushList();
+  flushBlockquote();
 
   if (codeFence) {
     html.push(
@@ -245,12 +274,12 @@ function renderIndexPage(posts) {
       </ul>`;
 
   return renderDocument({
-    pageTitle: "Archive",
+    pageTitle: "Posts",
     bodyClass: "home",
     assetPrefix: ".",
     homeHref: "./index.html",
     content: `
-      <h1 id="archive">Archive</h1>
+      <h1 id="posts" class="archive-title">Posts</h1>
       ${postsMarkup}
     `,
     footer: `<p><a href="./index.html">&larr; Home</a></p>`,
@@ -259,7 +288,7 @@ function renderIndexPage(posts) {
 
 function renderPostPage(post) {
   return renderDocument({
-    pageTitle: `${post.title} | Archive`,
+    pageTitle: `${post.title} | Posts`,
     bodyClass: "post-page",
     assetPrefix: "..",
     homeHref: "../index.html",
@@ -305,7 +334,7 @@ function renderDocument({ pageTitle, bodyClass, assetPrefix, homeHref, content, 
   </head>
   <body class="${bodyClass}">
     <div class="page-shell">
-      <a href="${homeHref}" class="site-title">Simple Blog</a>
+      <a href="${homeHref}" class="site-title">S. Anderson</a>
       <main>
         ${content}
       </main>
