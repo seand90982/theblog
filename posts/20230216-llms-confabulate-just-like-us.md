@@ -1,0 +1,21 @@
++++
+date = '2023-02-16T11:59:59-04:00'
+title = 'LLMs Confabulate, Just Like Us'
++++
+Lately I've been thinking about how AIs and particularly LLMs like ChatGPT work and behave. I've heard others use terms like statistical, or matrix-based, or neural nets. Regardless of how technically correct any of those may be, they don't go very far at all in terms of description of behavior, at least for me.
+
+Somehow these models can produce rigorous and technically accurate responses, but also surprisingly creative output. And they can create completely made-up garbage (Tyler Cowen refers to this as 'hallucinating'), which looks like a mix of confusion, solipsism, mere fill-in-the-blank, occasional genius-level abstraction, and outright fabrication.
+
+I like calling these hallucinations because I feel like it has some descriptive value, at least phenomenologically. We'd probably use the same term if it were a person behaving this way. Or perhaps psychosis or delusion, though those have maybe too much association with consciousness to be applied to a computer model. Calling it hallucination personifies without psychologizing.
+
+But I believe there's a better terms for this: confabulation. This is the actual *thing*, the real and observable symptom of many human cognitive diseases, and with even less association with consciousness *per se* (at least to me). In my view, confabulation is the underlying process in a whole lot of human cognition, but in normal healthy people it's reined in by a supervisory function that keeps checking against reality. This is sort of like [Friston’s 'free energy' model of cognition](https://marginalrevolution.com/marginalrevolution/2022/04/fristons-theory-of-everything.html), where our brains attempt to run a predictive model of the world, subject to cross-checking against observation of the actual world.
+
+In this view, we humans are *always* confabulating. That is, our brains are perpetually trying to update our understanding of the world, in real time, and we do this by essentially filling in the blanks with whatever seems to make the most sense. As each blank is filled in, we see what the model outputs and compare it to what we know (or believe) to be true based on observation. If it corresponds, great, and if not then keep trying. We feel surprise when correspondence suddenly dips; epiphany when it rises; confusion when it's low for too long; and clarity when it's high and sustained.
+
+If you take away the supervisory function that compares against reality, it sounds to me a whole lot like what LLMs are doing. But in fact you can get the LLM to bootstrap a sort of supervisory function by using the magic phrase, "take it step by step." I've noticed this phrase works quite well for people too!
+
+So, my mental model for what today's LLMs are doing is essentially that they're confabulating, all the time – it is literally how they function. I don't consider confabulation to be an alternative term to hallucination. Hallucination is a great term for wrong output, and it's a great concept to keep in the back of your mind as you use an LLM because it keeps you open to the potential for output that is both incorrect and mind-expanding. By the way, if the LLM hallucinates, and you believe it, aren't you the one who's hallucinating?
+
+Confabulation unfortunately has a pejorative connotation. I've seen it used dismissively when referring to thoughts or statements of people with dementia, as if only they’re the only ones who engage in confabulation. Or worse, when confabulation is conflated with attempted deceit. But in my view it's a part of the fundamental machinery of the mind. We are all engaged in it all the time – it's literally the stuff of thought, albeit subject to a supervisory function. In people without dementia, the supervisory function (usually) prevents the weirdness – the hallucination – from getting any traction. So in this view, it's not that dementia somehow turns on a new thing called confabulation; instead dementia sometimes involves the hindrance of the supervisory function, which then allows the confabulation to be in fuller view.
+
+So I think that LLMs are perhaps doing something remarkably close to what our brains are doing.

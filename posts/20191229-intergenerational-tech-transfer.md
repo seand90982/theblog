@@ -1,0 +1,22 @@
++++
+date = '2019-12-29T11:59:59-04:00'
+title = 'Intergenerational Tech Transfer'
++++
+I read recently somewhere that the structure of neuronal connectivity (the connectome) can’t be too complex, because at every generation the whole thing has to be compressed through a genomic bottleneck – *i.e.* it all has to be able to fit into a relatively constrained description. Thus, there’s a pretty hard limit to what each generation can pass on to its offspring, or to the community at large.
+
+But humans, with written language, can sort of sidestep this. We can pass on far more knowledge because we can store it outside out own heads. And as a byproduct we can share it laterally, not just with our own offspring.
+
+Another thing we can do is to build things that we then pass on to our offspring, for example, a house, a farm, tools, savings, a functioning business, a reputation, etc. This is a major step up from lower organisms, which generally do not have intergenerational transfer of what we can call real or capital goods. They might transfer some ‘savings’ in the form of stored food, or maybe even a nest of some form. But that’s it. The main value transferred intergenerationally in lower organisms is just in the form of upbringing, or rearing the young, feeding them and teaching them, until they’re mature enough to live on their own, and eventually repeat the cycle.
+
+But in a world where the rate of technological change is so great, as compared to earlier in human history, the value of the capital goods that we humans transfer intergenerationally has to be much lower, relatively speaking. Our parents’ or grandparents’ tools, appliances, computers, and even to some extent their knowledge, are vastly less valuable to us than they were to them. So while there may be a lot to transfer, it may not be especially valuable. Each new generation’s individuals necessarily have to build more for themselves, much of which will not be very valuable when it comes time to transfer it to their offspring.
+
+Think of the farmer in, say, 1800. He has a barn, bridles, hoes and other tools, and lots of knowledge regarding how to operate the farm, who to sell to or buy from, etc. Almost all of this can be transferred directly to his children, who who have an incentive to accept the transfer and take over the farm, because it’s already working and of proven value. Because the world is not likely to be significantly different in their lives than it was for their father., they’re way better off taking the farm that works, than choosing another path which they would have to build from scratch.
+
+Compare to the farmer of, say, 1970. The technology used on the farm is changing much more rapidly, so the inherited tractor and other tools are not going to be nearly as valuable to the next generation as they were to the last. In a sense, the option value of having been born to a farmer is relatively much lower than it was in 1800. Almost no matter what the next generation chooses to do (farming or otherwise), they will need to start more or less anew.
+So, what does this change in the world? I’m not entirely sure, but it should make it more like some era in prehistory where intergenerational wealth transfer was much less (say, as a fraction of lifetime earnings).
+
+Of course there is still a lot of intergenerational wealth transfer, in that people who are better off today are better able to raise their kids, in the form of education and reputational signaling. Or things like paying for a first apartment or home in a good location that allows them to have a good job.
+
+I also came across this: “My parents are wonderful people. But most of the things they taught me are essential in a low-trust/scarcity culture, and counterproductive in a high-trust/abundance culture. I had to do a lot of work to unwind these lessons, and it set me back by probably ~10-15 years.”
+
+A lot of what each generation passes on to the next is what we’d call cultural knowledge – how to operate in the world. Maybe the time of huge transfers of material wealth and capital was the anomaly. When the rate of technological change was low, what was transferred held its value. But when the rate of technological change is high, there’s lots of stuff to transfer, but the value drops fast because it’s being replaced with better stuff so quickly. The anomaly was when the net integrated tech change up to that point was large enough to have valuable things, but not enough that the level of tech advancement changed too much from one (human) generation to the next.
